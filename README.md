@@ -36,3 +36,13 @@ To get started with the Raffle Draw Project, follow these steps:
    ```sh
    cd raffle-draw
    git clone https://github.com/syednoor058/nodeJS-project-raffle-draw.git
+
+2. **Install dependencies:**
+
+   ```sh
+   npm install -r requirements.txt
+
+3. **Run the application:**
+
+   ```sh
+   npm start
