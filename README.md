@@ -5,7 +5,7 @@ Welcome to the Raffle Draw Project, a Node.js and Express.js application that le
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
+- [Tickets Objects](#ticket-objects)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -21,12 +21,18 @@ Welcome to the Raffle Draw Project, a Node.js and Express.js application that le
 - Get all lottery tickets
 - Raffle Draw
   
-## Getting Started
+## Ticket Objects
+
+- Username
+- Ticket ID (Unique number)
+- Price
+- Buy time
+- Update time
 
 To get started with the Raffle Draw Project, follow these steps:
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/syednoor058/nodeJS-project-raffle-draw.git
    cd raffle-draw
+   git clone https://github.com/syednoor058/nodeJS-project-raffle-draw.git
