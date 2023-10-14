@@ -6,8 +6,6 @@ Welcome to the Raffle Draw Project, a Node.js and Express.js application that le
 
 - [Features](#features)
 - [Tickets Objects](#ticket-objects)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
